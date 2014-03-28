@@ -1,14 +1,11 @@
 package com.example.util;
 
-import java.io.File;
 import java.io.InputStream;
 import java.util.List;
 import java.util.Vector;
 
 import org.dom4j.Document;
 import org.dom4j.Element;
-
-import android.R;
 
 import com.example.currencyconverter.Currency;
 import com.example.reader.AndroidXmlReader;
